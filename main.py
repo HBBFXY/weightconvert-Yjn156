@@ -6,5 +6,5 @@ if unit == "kg":
    result = num * kg_to_pd
    print(f"对应的英制重量为{result:.3f}磅")
 elif unit == "pd":
-   result = num / kg_to_pd
-   print(f"对应的公制重量为{result:.3f}公斤")
+     result = num / kg_to_pd
+     print(f"对应的公制重量为{result:.3f}公斤")
